@@ -1,0 +1,14 @@
+.card {
+  border: 1px solid #ececec;
+  border-radius: 5px;
+}
+
+.card__image {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  width: 100%;
+}
+
+.card__text {
+  padding: 10px;
+}

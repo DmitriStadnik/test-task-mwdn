@@ -1,0 +1,12 @@
+.carousel__dot {
+  height: 20px;
+  width: 20px;
+  background-color: #6c7a89;
+  border-radius: 50%;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.carousel__dot_active {
+  background-color: #c3ff68;
+}

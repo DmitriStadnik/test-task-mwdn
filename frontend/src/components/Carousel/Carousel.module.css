@@ -1,0 +1,30 @@
+.carousel {
+  background-color: #ececec;
+  width: 800px;
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.carousel__image-wrapper {
+  display: flex;
+}
+
+.carousel__nav-button {
+  font-size: 30px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  padding: 10px;
+}
+
+.carousel__nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
